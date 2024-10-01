@@ -401,6 +401,10 @@ section {
   margin-bottom: 10px;
 }
 
+.resume-item p {
+  margin-bottom: 10px;
+}
+
 .resume .resume-item::before {
   content: "";
   position: absolute;
