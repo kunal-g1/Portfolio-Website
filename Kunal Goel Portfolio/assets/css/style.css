@@ -666,6 +666,10 @@ section {
   color: #eaebf0;
 }
 
+.credits a{
+  color: #149ddd !important;
+}
+
 @media (max-width: 1199px) {
   #footer {
     position: static;
