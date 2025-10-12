@@ -1,0 +1,12 @@
+node_modules
+**/.env
+**/dev.db
+dist
+.DS_Store
+
+# Ignore image files
+Kunal Goel Portfolio/assets/img/
+
+
+# Lock files 
+package-lock.json
